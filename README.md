@@ -19,8 +19,7 @@ Install npm packages and mysql.
 
 <a name="usage"></a>
 ## Usage
-Type "node.index.js" into the terminal to run the application. 
-Answer prompted questions and team.html will be updated with the new information. 
+Run index.js file and select from prompted options to view or add to database tables.  
 
 <a name="contributers"></a>
 ## Contributers
@@ -29,7 +28,7 @@ Zac Ellis
 <a name="test"></a>
 ## Testing Instructions
 Run application and answer prompts. 
-Refresh team.html in browser to see updated results. 
+Data base should reset if not seeded at the start.  
 
 <a name="contact"></a>
 ## Contact Information
