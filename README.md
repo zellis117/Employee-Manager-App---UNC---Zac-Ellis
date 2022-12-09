@@ -15,7 +15,7 @@ A command line application to help manage an employee database.
 
 <a name="install"></a>
 ## Installation Instructions
-Install npm packages and mysql. 
+Install npm packages, inquirer and mysql. 
 
 <a name="usage"></a>
 ## Usage
